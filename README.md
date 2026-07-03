@@ -17,7 +17,7 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 
 #### Daily drivers
 
-[Ghostty](https://ghostty.org) · [Herdr](https://herdr.dev) · [Neovim](https://neovim.io) · [lazygit](https://github.com/jesseduffield/lazygit) · [mise](https://mise.jdx.dev) · [Starship](https://starship.rs) · [chezmoi](https://www.chezmoi.io) (see [dotfiles](https://github.com/ryanlewis/dotfiles)) · [Claude Code](https://claude.com/claude-code) · [Things](https://culturedcode.com/things/) · [Obsidian](https://obsidian.md)
+[Ghostty](https://ghostty.org) · [Herdr](https://herdr.dev) · [Neovim](https://neovim.io) · [lazygit](https://github.com/jesseduffield/lazygit) · [mise](https://mise.jdx.dev) · [chezmoi](https://www.chezmoi.io) (see [dotfiles](https://github.com/ryanlewis/dotfiles)) · [Claude Code](https://claude.com/claude-code) · [Things](https://culturedcode.com/things/) · [Obsidian](https://obsidian.md)
 
 #### Elsewhere
 
