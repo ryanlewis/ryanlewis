@@ -14,6 +14,7 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 - ✅ [things-cli](https://github.com/ryanlewis/things-cli) — Things3 on the command line
 - 📋 [yat](https://github.com/ryanlewis/yat) — lightweight CLI issue tracker backed by YAML-frontmattered markdown files
 - 🌈 [tint](https://github.com/ryanlewis/tint) — visual shaders for text in your terminal
+- 🫖 [Yorkshire Tea, by the numbers](https://share.rlew.io/yorkshire-tea/) — a sourced statistical case for Britain's biggest tea brand, including the findings that go the other way
 
 #### Daily drivers
 
