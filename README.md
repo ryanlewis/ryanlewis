@@ -13,6 +13,10 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 - 📋 [yat](https://github.com/ryanlewis/yat) — lightweight CLI issue tracker backed by YAML-frontmattered markdown files
 - 🌈 [tint](https://github.com/ryanlewis/tint) — visual shaders for text in your terminal
 
+#### Self-hosted
+
+- 🔔 [hubbub](https://github.com/ryanlewis/hubbub) — notification fan-out hub: one authenticated JSON API in, your channels out. Durable outbox, per-key permissions, single Go binary
+
 #### On the web
 
 - 🎯 [edpi.app](https://edpi.app) — Valorant pro sensitivity, DPI & gear loadouts
