@@ -20,9 +20,9 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 
 #### Self-hosted
 
-- 🔔 [hubbub](https://github.com/ryanlewis/hubbub) — notification fan-out hub: one authenticated JSON API in, your channels out. Durable outbox, per-key permissions, single Go binary
-- 📦 [relwatch](https://github.com/ryanlewis/relwatch) — release tracker for a curated list of upstream projects. LLM-triages each release once, then serves a dashboard and a daily email digest
-- 🔗 [html-share-workers](https://github.com/ryanlewis/html-share-workers) — Cloudflare Worker for sharing HTML pages: public, password-protected or IP-gated, with an upload API and CLI
+- 🔔 [hubbub](https://github.com/ryanlewis/hubbub) — self-hosted notification fan-out: one JSON API in, your channels out. Single Go binary
+- 📦 [relwatch](https://github.com/ryanlewis/relwatch) — release tracker that LLM-triages new releases into a dashboard and daily email digest
+- 🔗 [html-share-workers](https://github.com/ryanlewis/html-share-workers) — Cloudflare Worker for sharing HTML pages, public or gated by password or IP
 - 🪶 [exeslim](https://github.com/ryanlewis/exeslim) — minimal exe.dev base image for deployment targets
 
 #### Claude Code and herdr
@@ -40,15 +40,15 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 
 #### Write-ups
 
-- 🐘 [gradle-ci-caching](https://github.com/ryanlewis/gradle-ci-caching) — Gradle caching on GitHub Actions with S3: a design, tested against an Android and a Spring Boot build
-- 🎙️ [stt-exe-benchmark](https://github.com/ryanlewis/stt-exe-benchmark) — how close to realtime can CPU-only speech-to-text get on a 2 vCPU VM? sherpa-onnx, faster-whisper, whisper.cpp, Moonshine and Vosk compared
-- ♻️ [renovate-config](https://github.com/ryanlewis/renovate-config) — shared Renovate config: wait before updating, let security fixes skip the queue, automerge only what waited
+- 🐘 [gradle-ci-caching](https://github.com/ryanlewis/gradle-ci-caching) — a study of Gradle caching on GitHub Actions backed by S3
+- 🎙️ [stt-exe-benchmark](https://github.com/ryanlewis/stt-exe-benchmark) — CPU-only speech-to-text engines benchmarked on a 2 vCPU VM
+- ♻️ [renovate-config](https://github.com/ryanlewis/renovate-config) — shared Renovate config: wait before updating, fast-track security fixes
 
 #### Toys
 
 - 🚽 [iss.rlew.io](https://iss.rlew.io) — the ISS Piss-o-meter: live urine-tank telemetry from the International Space Station
 - 🛰️ [ioncannon.rlew.io](https://ioncannon.rlew.io) — the ISS reimagined as the GDI ion cannon from Command & Conquer
-- 🫖 [Yorkshire Tea, by the numbers](https://share.rlew.io/yorkshire-tea/) — a sourced statistical case for Britain's biggest tea brand, including the findings that go the other way
+- 🫖 [Yorkshire Tea, by the numbers](https://share.rlew.io/yorkshire-tea/) — a sourced statistical case for Britain's biggest tea brand, counterpoints included
 - 🚚 [thor.rlew.io](https://thor.rlew.io) — unofficial shipment tracker for the AYN Thor gaming handheld
 
 ### Daily drivers
