@@ -12,6 +12,7 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 - ✅ [things-cli](https://github.com/ryanlewis/things-cli) — Things3 on the command line
 - 📋 [yat](https://github.com/ryanlewis/yat) — lightweight CLI issue tracker backed by YAML-frontmattered markdown files
 - 🌈 [tint](https://github.com/ryanlewis/tint) — visual shaders for text in your terminal
+- 📖 [smd](https://github.com/ryanlewis/smd) — markdown reader for the terminal that draws mermaid, maths and headings as images
 
 #### Desktop
 
@@ -23,6 +24,7 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 - 🔔 [hubbub](https://github.com/ryanlewis/hubbub) — self-hosted notification fan-out: one JSON API in, your channels out. Single Go binary
 - 📦 [relwatch](https://github.com/ryanlewis/relwatch) — release tracker that LLM-triages new releases into a dashboard and daily email digest
 - 🔗 [html-share-workers](https://github.com/ryanlewis/html-share-workers) — Cloudflare Worker for sharing HTML pages, public or gated by password or IP
+- 🏃 [ephemeral-runners](https://github.com/ryanlewis/ephemeral-runners) — self-hosted GitHub Actions runners: a fresh KVM VM per job, sized per job
 - 🪶 [exeslim](https://github.com/ryanlewis/exeslim) — minimal exe.dev base image for deployment targets
 
 #### Claude Code, herdr and Rex
@@ -42,6 +44,7 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 #### Write-ups
 
 - 🐘 [gradle-ci-caching](https://github.com/ryanlewis/gradle-ci-caching) — a study of Gradle caching on GitHub Actions backed by S3
+- 🧪 [gradle-cache-harness](https://github.com/ryanlewis/gradle-cache-harness) — the harness behind it, measuring setup-gradle cache providers on real builds
 - 🎙️ [stt-exe-benchmark](https://github.com/ryanlewis/stt-exe-benchmark) — CPU-only speech-to-text engines benchmarked on a 2 vCPU VM
 - ♻️ [renovate-config](https://github.com/ryanlewis/renovate-config) — shared Renovate config: wait before updating, fast-track security fixes
 
