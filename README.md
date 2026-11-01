@@ -25,13 +25,14 @@ Polyglot mostly writing Go, Kotlin, and TypeScript.
 - 🔗 [html-share-workers](https://github.com/ryanlewis/html-share-workers) — Cloudflare Worker for sharing HTML pages, public or gated by password or IP
 - 🪶 [exeslim](https://github.com/ryanlewis/exeslim) — minimal exe.dev base image for deployment targets
 
-#### Claude Code and herdr
+#### Claude Code, herdr and Rex
 
 - 🧩 [claude-plugins](https://github.com/ryanlewis/claude-plugins) — my Claude Code plugin marketplace
 - 🎮 [claude-isthereanydeal](https://github.com/ryanlewis/claude-isthereanydeal) — Claude Code plugin for game deals and price history via IsThereAnyDeal
 - 🧹 [claude-format-hook](https://github.com/ryanlewis/claude-format-hook) — auto-formats code when Claude Code edits files
 - 📑 [herdr-agent-rows](https://github.com/ryanlewis/herdr-agent-rows) — herdr plugin: compact agent sidebar rows with branch/PR, state times and lead/worker grouping
 - 🏷️ [herdr-workspace-renamer](https://github.com/ryanlewis/herdr-workspace-renamer) — herdr plugin: syncs agent session names onto workspace labels
+- 🦖 [rexroster](https://github.com/ryanlewis/rexroster) — Rex TUI listing a lead agent's detached Claude Code workers, floating any that need you
 
 #### On the web
 
