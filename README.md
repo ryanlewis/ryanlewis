@@ -2,7 +2,7 @@
 
 Software Engineer in Leeds, UK. Currently at [@LHV-UK](https://github.com/LHV-UK).
 
-Polyglot mostly writing Go, Kotlin, and TypeScript.
+Polyglot mostly writing Go, Kotlin, TypeScript, and Rust.
 
 ### Some things I've made
 
